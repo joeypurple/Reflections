@@ -19,3 +19,7 @@ Testing out experimental code
 How do the diagrams help you visualize the branch structure?
 
 Made me understand more about the master branch and how branches go back to the first commit in some cases. Or how you could lose a commit. Also Reachability
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When merging you take code updates from one file and merge it with same file from another branch
