@@ -11,3 +11,7 @@ Staging only has files you added using git add. Gives you control over what file
 How can you use the staging area to make sure you have one commit per logical change?
 
 Using Commands like git status will show you what files are staged for commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Testing out experimental code
