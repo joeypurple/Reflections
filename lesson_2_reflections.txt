@@ -4,4 +4,10 @@ A hidden directory is created called .git This turns a normal directory into a g
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-Working directory contains all your files. Staging only has files you added using git add. Gives you control over what files you add commits to
+Working directory contains all your files. 
+
+Staging only has files you added using git add. Gives you control over what files you add commits to
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Using Commands like git status will show you what files are staged for commit
