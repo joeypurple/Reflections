@@ -23,3 +23,7 @@ Made me understand more about the master branch and how branches go back to the 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 When merging you take code updates from one file and merge it with same file from another branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Using automatic merge can save you time but it isnt always perfect.
