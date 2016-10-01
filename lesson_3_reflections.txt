@@ -21,3 +21,7 @@ That way you can compare the remote before commiting it
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 You could email files but you wouldnt be able to keep track of changes or go back to older versions like you can with git and git hub
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A separate branch is good for testing new features or code that are not ready for production "master branch"
