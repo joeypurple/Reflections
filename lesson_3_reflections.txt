@@ -17,3 +17,7 @@ branchs is used to test out expermental code without efffecting your production 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 That way you can compare the remote before commiting it
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could email files but you wouldnt be able to keep track of changes or go back to older versions like you can with git and git hub
