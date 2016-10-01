@@ -13,3 +13,7 @@ Fork is when github clones a repository to your git hub not your local
 clone is when you clone either a github repository to your local or clone a local somewhere else on your local pc
 
 branchs is used to test out expermental code without efffecting your production ready master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+That way you can compare the remote before commiting it
