@@ -5,3 +5,11 @@ If you are working with other people and need them to view and edit files
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Since changes could be added by other users it might be best to check out those changes first on github before pulling them to the local repository
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is when github clones a repository to your git hub not your local
+
+clone is when you clone either a github repository to your local or clone a local somewhere else on your local pc
+
+branchs is used to test out expermental code without efffecting your production ready master branch
